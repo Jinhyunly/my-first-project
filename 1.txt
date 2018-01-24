@@ -1,9 +1,3 @@
-line 0
-
-line 2
-
-fucking git
-
-fuck hihihihihi
-
-hello
+line 1-2
+line 2-1
+line 3-1
